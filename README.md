@@ -15,6 +15,6 @@ Create a constructor function for each of the following:
 + Driver with `name`, `age`, and `experience` properties
 + PickupLocation with `address` and `city` properties
 
-Make sure you run the tests to make sure your solutions work as expected.
+Make sure you run the tests to ensure your solutions work as expected.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-object-oriented-constructor-functions-lab'>Constructor Functions Lab</a> on Learn.co and start learning to code for free.</p>
